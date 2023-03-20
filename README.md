@@ -5,10 +5,10 @@
 <p align="center"><a href="https://telegram.dog/Rajveerxv"><img src="https://te.legra.ph/file/6e2a7056cdd023186c886.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://github.com/its-star-boi/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/its-star-boi/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/its-star-boi/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/issues"> <img src="https://img.shields.io/github/issues/its-star-boi/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/its-star-boi/ShizukaXMusic/network/members"> <img src="https://img.shields.io/github/forks/its-star-boi/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/Rajveerxv/ShizukaXMusic"> <img src="https://img.shields.io/github/repo-size/Rajveerxv/ShizukaXMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Rajveerxv/ShizukaXMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/Rajveerxv/ShizukaXMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Rajveerxv/ShizukaXMusic/issues"> <img src="https://img.shields.io/github/issues/Rajveerxv/ShizukaXMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Rajveerxv/ShizukaXMusic/network/members"> <img src="https://img.shields.io/github/forks/Rajveerxv/ShizukaXMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
