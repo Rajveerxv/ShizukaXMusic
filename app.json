@@ -55,12 +55,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Your Support Group link ",
-        "value": "https://t.me/Best_FriendsFor_Ever",
+        "value": "https://t.me/ASURA_W0RLD",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/Star_X_Network",
+        "value": "https://t.me/Ronny_support_chats",
         "required": false
       },
       "PING_IMG_URL": {
@@ -90,7 +90,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/its-star-boi/ShizukaXMusic",
+        "value": "https://github.com/Rajveerxv/ShizukaXMusic",
         "required": true
       },
       "UPSTREAM_BRANCH": {
