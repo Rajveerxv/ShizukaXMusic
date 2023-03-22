@@ -123,7 +123,7 @@
 > ᴀʟᴡᴀʏs ʀᴇᴍᴇʙᴇʀ ᴛᴏ ᴜsᴇ ɢᴏᴏᴅ ᴀᴘɪ ᴄᴏᴍʙᴏ ᴇʟsᴇ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴄᴏᴜʟᴅ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ.
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ʀᴇᴘʟ: </h4>    
-<p><a href="https://replit.com/@AssadAli/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@Rajveerxv/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
 <p><a href="https://telegram.dog/STRING_SESSION_MAKER_BOT"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
@@ -184,12 +184,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 - [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/IRRH_1)
 - [ᴀsᴀᴅ ᴀʟɪ](https://telegram.dog/IRRH_1)
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/)
-- [ʜᴀʀsʜɪᴛ](https://telegram.dog/)
-- [Abhimanyu](https://telegram.dog/)
-- [ᴍᴀssoᴍ](https://telegram.dog/)
-- [ʏᴜᴋᴋɪ](https://github.com/)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/)
 </details>
 
 <details>
